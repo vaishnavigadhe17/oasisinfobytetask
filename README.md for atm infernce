@@ -1,0 +1,20 @@
+# oasisinfobytetask
+This is a menu-driven applictaion based on developing an ATM 
+(Automated Teller Machine) using “Java Programming Language".   
+
+To use into the system user need to enter his registered user ID. 
+If he is registered then the program will ask him to enter his card 
+number followed by his PIN number.
+
+After entering the correct credentials, user will be provided with various choices such as
+
+1. Change PIN
+2. Show Account Balance
+3. Perform Transaction
+4. Show Account Transaction History
+5. Quit
+
+By choosing the above options, user can change his card PIN,
+see his account history, perform transactions such as deposit, withdrawl,
+transfer of money and can also see his transactions history. He can quit
+the program at any moment.
